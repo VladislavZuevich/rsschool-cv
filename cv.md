@@ -1,17 +1,18 @@
  1. Vladislav Zuevich
- 2. __Contacts__
-    instagram [Эта ссылка](@vladzuevich) 
-    email <vlad9zuevich@gmail.com\>
-    telegram <https://t.me/+375333740269\>
-    никнейм на сервере Vlad (@VladislavZuevich)
- 3.Я учусь на втором курсе ГрГУ им.Янки Купалы на специальности компьютерная физика. Моя цель максимально углубить свои знания в области программирования, так как в универе дают поверхностную базу и я считаю rs school поможет мне в этом. Я ответственный, амбициозный и всегда довожу начатое до конца. Надеюсь пройти все этапы данного курса и устроиться разработчиком.
- 4.__Навыки__ 
-    -HTML
-    -CSS
-    -C#
-    -JS
- 5.__Пример кода__
-const chai = require("chai");
+ 2. __Contacts:__
+    * [instagram](@vladzuevich) 
+    * [email](vlad9zuevich@gmail.com)
+    * [telegram](https://t.me/+375333740269)
+    * nickname on the server Vlad (@VladislavZuevich)
+
+3. I am a second-year student at GrSU.Yanka Kupala, majoring in computer physics. My goal is to deepen my knowledge of programming as much as possible, as the university provides a superficial base, and I believe that rs school will help me achieve this. I am responsible, ambitious, and always finish what I start. I hope to complete all the stages of this course and find a job as a developer.
+ 4. __Skills:__ 
+    * HTML
+    * CSS
+    * C#
+    - JS
+ 5. __Code examle:__
+```const chai = require("chai");
 const assert = chai.assert;
 chai.config.truncateThreshold=0;
 
@@ -25,7 +26,8 @@ describe("Tests", () => {
     assert.strictEqual(isPangram(string), false)
   });
 });
- 6.Задачи с универа
- 7.Изучал диспиплины: WEB-программирование, системное программирование.
- 8.A2(есть небольшая разговорная практика не с носителем языка).
+```
+ 6. Tasks from the university
+ 7. Studied subjects: WEB programming and system programming.
+ 8. A2 (small amount of speaking practice).
     
