@@ -1,7 +1,7 @@
  1. Vladislav Zuevich
  2. __Contacts:__
-    * [instagram](@vladzuevich) 
-    * [email](vlad9zuevich@gmail.com)
+    * [instagram](https://www.instagram.com/vladzuevich/) 
+    * [email](https://mail.google.com/mail/u/0/?hl=ru#inbox)
     * [telegram](https://t.me/+375333740269)
     * nickname on the server Vlad (@VladislavZuevich)
 
@@ -12,7 +12,8 @@
     * C#
     - JS
  5. __Code examle:__
-```const chai = require("chai");
+```javascript
+const chai = require("chai");
 const assert = chai.assert;
 chai.config.truncateThreshold=0;
 
@@ -25,7 +26,7 @@ describe("Tests", () => {
     var string = "This is not a pangram."
     assert.strictEqual(isPangram(string), false)
   });
-});
+});   
 ```
  6. Tasks from the university
  7. Studied subjects: WEB programming and system programming.
