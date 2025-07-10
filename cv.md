@@ -9,8 +9,8 @@
     * HTML
     * CSS
     * C#
-    - JS
- 3. Code examle:
+    * JS
+ 1. Code examle
 ```js
 const chai = require("chai");
 const assert = chai.assert;
