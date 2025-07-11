@@ -11,11 +11,11 @@
     * C#
     * JS
  5. Code examle
-```
-const assert = require("chai").assert;
+    ```
+    const assert = require("chai").assert;
 
-describe("Multiply", () => {
-  it("fixed tests", () => {
+    describe("Multiply", () => {
+      it("fixed tests", () => {
     assert.strictEqual(multiply(1,1), 1);
     assert.strictEqual(multiply(2,1), 2);
     assert.strictEqual(multiply(2,2), 4);
@@ -23,9 +23,9 @@ describe("Multiply", () => {
     assert.strictEqual(multiply(5,0), 0);
     assert.strictEqual(multiply(0,5), 0);
     assert.strictEqual(multiply(0,0), 0); 
-  });
-});
-```
+      });
+    });
+    ```
  6. Tasks from the university
  7. Studied subjects: WEB programming and system programming.
  8. A2 (small amount of speaking practice).
