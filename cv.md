@@ -1,5 +1,4 @@
  1. Vladislav Zuevich
-![alt text](image.png)
  2. Contacts:
     * [instagram](https://www.instagram.com/vladzuevich/) 
     * [telegram](https://t.me/+375333740269)
