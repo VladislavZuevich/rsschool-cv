@@ -1,5 +1,5 @@
- 1. Vladislav Zuevich
- 2. Contacts:
+1. Vladislav Zuevich
+2. Contacts:
     * [instagram](https://www.instagram.com/vladzuevich/) 
     * nickname on the server Vlad (@VladislavZuevich)
 
@@ -10,13 +10,14 @@
     * Git/GitHub
     * JS
   5. Code examle
+5. Code examle
     ```
     console.log(
    [1, 4, 3, 0, 4, 5, 4]
    .filter(element => !(element % 2))
    .reduceRight((accumulator, element) => accumulator + Math.sqrt(element), 0)); 
     ```
- 6. https://vladislavzuevich.github.io/rsschool-cv/cv
- 7. Education: GrSU.Yanka Kupala (Faculty of Physics and Technology)
-    Courses: JS / Front-end Pre-school RU Course
- 8. A2 (small amount of speaking practice).
+6. https://vladislavzuevich.github.io/rsschool-cv/cv
+7. Studied subjects: WEB programming and system programming.
+8. A2 (small amount of speaking practice).
+    
