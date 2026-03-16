@@ -10,16 +10,16 @@
      * JS
   5. Code examle
   ```
-    function checkAge(age) {
+  function checkAge(age) {
   if (age >= 18) {
-    return "Доступ разрешен";
+    return ;
   } else {
-    return "Доступ запрещен";
+    return ;
     }
   }
 
-  console.log(checkAge(20)); // "Доступ разрешен"
-  console.log(checkAge(15)); // "Доступ запрещен" 
+  console.log(checkAge(20));
+  console.log(checkAge(15));
   ```
   6. https://vladislavzuevich.github.io/rsschool-cv/cv
   7. Education: GrSU.Yanka Kupala (Faculty of Physics and Technology)
