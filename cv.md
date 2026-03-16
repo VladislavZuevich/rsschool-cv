@@ -8,22 +8,23 @@
      * CSS
      * Git/GitHub
      * JS
-  5. Code examle
-  ```
-  function checkAge(age) {
-  if (age >= 18) {
-    return ;
-  } else {
-    return ;
-    }
-  }
+  5. Code examle:
+   ```
+    function checkAge(age) {
+      if (age >= 18) {
+        return ;
+          } else {
+        return ;
+        }
+      }
 
-  console.log(checkAge(20));
-  console.log(checkAge(15));
+      console.log(checkAge(20));
+      console.log(checkAge(15));
   ```
   6. https://vladislavzuevich.github.io/rsschool-cv/cv
   7. Education: GrSU.Yanka Kupala (Faculty of Physics and Technology)
-    Courses: JS / Front-end Pre-school RU Course
+     Courses: JS / Front-end Pre-school RU 
   8. A2 (small amount of speaking practice).
-   
-    
+
+  
+ 
